@@ -13,6 +13,7 @@ This project is a Python-based simulation of photon paths using a Monte Carlo me
 ## Installation
 
 ### Prerequisites
+Run the code from S.T.A.R.S.py in a Python environment
 Ensure you have Python 3.x installed. Additionally, you will need the following Python libraries:
 - `numpy`
 - `matplotlib`
@@ -23,5 +24,5 @@ You can install the required libraries using `pip`:
 
 ```bash
 pip install numpy matplotlib scikit-learn
-Run the code from S.T.A.R.S.py in a Python environment
+
 
