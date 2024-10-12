@@ -23,4 +23,5 @@ You can install the required libraries using `pip`:
 
 ```bash
 pip install numpy matplotlib scikit-learn
+Run the code from S.T.A.R.S.py in a Python environment
 
